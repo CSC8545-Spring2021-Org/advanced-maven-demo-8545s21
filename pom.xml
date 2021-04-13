@@ -11,7 +11,7 @@
 		<maven.compiler.source>11</maven.compiler.source>
 		<maven.compiler.target>11</maven.compiler.target>
 		<checkstyle.config.location>${basedir}/src/main/resources/checkstyle-config-studio.xml</checkstyle.config.location>
-        <checkstyle.failOnViolation>true</checkstyle.failOnViolation>
+        <checkstyle.failOnViolation>false</checkstyle.failOnViolation>
         <checkstyle.consoleOutput>true</checkstyle.consoleOutput>
 	</properties>
 	
